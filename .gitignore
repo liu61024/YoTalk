@@ -1,0 +1,15 @@
+
+# Frontend
+yo-talk/node_modules/
+yo-talk/build/
+yo-talk/.env*
+
+# Backend
+yo-talk-server/node_modules/
+yo-talk-server/dist/
+yo-talk-server/.env*
+
+# Global
+*.log
+.DS_Store
+.vscode/
